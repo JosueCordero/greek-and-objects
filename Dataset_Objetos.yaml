@@ -1,0 +1,9 @@
+train: ../Dataset_Objetos/images/train
+val:  ../Dataset_Objetos/images/val
+test: ../Dataset_Objetos/images/test
+
+# number of classes
+nc: 10
+
+# class names
+names: ["pencil","lemon", "banana","green_apple","egg","tomato","hand","pants","t_shirt","cucumber"]
